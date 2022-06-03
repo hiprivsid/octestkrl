@@ -1,2 +1,2 @@
 # HyperOS
-HyperOS written  on his kernel
+HyperOS written  on his kernel for mod OpenComputers
