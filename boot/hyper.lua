@@ -1,4 +1,4 @@
-_G._OSVERSION = "HyperOS"
+_G._OSVERSION = "Octestkrnl codename Hyper"
 
 local component  = component
 local computer = computer
@@ -41,17 +41,13 @@ end
 
 -- Booting Kernel
 
-status("Hyper Kernel")
+status(_G._OSVERSION)
 status("Total ram:")
 computer.totalMemory()
 gpu.setForeground(0xF24B00)
-status("Loading HSO Packages")
-gpu.setForeground(0x2FA12F)
-status("HSO Packages not loaded")
+status("Nothing to do")
 gpu.setForeground(0xE6E6E6)
 
-gpu.setForeground(0xFFFFFF)
-status("KERNEL PANIC: 0x1")
 
 
 
