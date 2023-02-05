@@ -47,8 +47,3 @@ computer.totalMemory()
 gpu.setForeground(0xF24B00)
 status("Nothing to do")
 gpu.setForeground(0xE6E6E6)
-
-
-
-
-
