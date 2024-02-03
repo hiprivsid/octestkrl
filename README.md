@@ -1,2 +1,2 @@
-# OpenComputers Test Kernel
+simple kernel with gpu init 
 
